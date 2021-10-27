@@ -28,6 +28,9 @@
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
 					"PackageIdentifier" : "Adobe.AdobeAcrobatReaderDC"
 				},
 				{
