@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2021-10-24T17:54:41.643-00:00",
+	"CreationDate" : "2023-01-31T15:17:07.428-00:00",
 	"Sources" : 
 	[
 		{
@@ -10,13 +10,46 @@
 					"PackageIdentifier" : "AltDrag.AltDrag"
 				},
 				{
-					"PackageIdentifier" : "Lexikos.AutoHotkey"
+					"PackageIdentifier" : "AutoHotkey.AutoHotkey"
+				},
+				{
+					"PackageIdentifier" : "dbeaver.dbeaver"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier" : "Viber.Viber"
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Office"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Toggl.TogglTrack"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.Toolbox"
+				},
+				{
+					"PackageIdentifier" : "PostgreSQL.pgAdmin"
+				},
+				{
+					"PackageIdentifier" : "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
 					"PackageIdentifier" : "Google.Drive"
@@ -25,16 +58,16 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "Mozilla.Firefox"
+					"PackageIdentifier" : "Cisco.CiscoWebexMeetings"
 				},
 				{
-					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
-				},
-				{
-					"PackageIdentifier" : "SlackTechnologies.Slack"
+					"PackageIdentifier" : "KeePassXCTeam.KeePassXC"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom"
@@ -42,12 +75,12 @@
 			],
 			"SourceDetails" : 
 			{
-				"Argument" : "https://winget.azureedge.net/cache",
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
 				"Name" : "winget",
 				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
 	],
-	"WinGetVersion" : "1.1.12663"
+	"WinGetVersion" : "1.4.10173"
 }
